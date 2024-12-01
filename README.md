@@ -1,2 +1,2 @@
 # Cubo
- Generación de un cubo mediante un applet
+ Generación de un cubo mediante un applet.
